@@ -9,9 +9,9 @@ To classify these networks, I created two separate models. The initial model emp
 
 ![image](https://github.com/barrettb/Soccer-Network-Analysis/assets/89215081/ce9fcd45-f8d0-404f-912d-0d1062da08ea)
 
-
 ![image](https://github.com/barrettb/Soccer-Network-Analysis/assets/89215081/cd959072-d091-4cc2-bdbe-dd8b0a831de0)
 
+![image](https://github.com/barrettb/Soccer-Network-Analysis/assets/89215081/55b13a79-610f-44f6-b0ce-c68d6b8475b0)
 
 ![image](https://github.com/barrettb/Soccer-Network-Analysis/assets/89215081/69fcd969-717b-47d9-95ec-879265274b87)
 
