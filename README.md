@@ -1,8 +1,8 @@
 # Soccer-Network-Analysis
 Network Analysis of Soccer Data
 
-Full paper can be found under the RTG_Paper.docx above
-
+**Full paper can be found under the RTG_Paper.docx above
+**
 Introduction
 
 The goal of this research primarily focused on classifying soccer match outcomes through each game’s respective passing networks. Firstly however, what is a passing network. A passing network is a directed weighted graph where each node symbolizes a player, and each edge symbolizes a pass between each player with the weights for each edge being made up of total pass counts. In each network, the node location is defined by the average X and average Y coordinate. For example, if player one receives the ball once at (1,2) and a second time at (1,4) then his average location would be (1,3). These networks can differ significantly from game to game. For example, look at the network below from AFC Bournemouth vs. Tottenham Hotspur. In this game, Tottenham Hotspur won 5-1 and there are certain characteristics that the "winning" passing networks share. This includes things such as the outside defensive players having average X and Y coordinates that are close to the striker. In the Tottenham Hotspur network, Rose and Walker both have an average X coordinate that is only slightly less than Tottenham striker Harry Kane. In terms of the losing passing network, it also shares certain characteristics. These include most of the nodes on the left side of the pitch as well as one of the attacking players being disconnected from the rest of the network.
